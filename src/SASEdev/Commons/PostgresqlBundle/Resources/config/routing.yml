@@ -1,0 +1,3 @@
+sas_edev_commons_postgresql_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: SASEdevCommonsPostgresqlBundle:Default:index }

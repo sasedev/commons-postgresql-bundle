@@ -1,0 +1,7 @@
+parameters:
+#    sas_edev_commons_postgresql.example.class: SASEdev\Commons\PostgresqlBundle\Example
+
+services:
+#    sas_edev_commons_postgresql.example:
+#        class: %sas_edev_commons_postgresql.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
