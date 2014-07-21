@@ -23,7 +23,7 @@
 		"php" : ">=5.3.3",
 		"symfony/framework-bundle" : "~2.3",
 		"doctrine/orm" : ">=2.2.3",
-		"sasedev/doctrine-dbal-pgsql-types" : "1.0.*@dev"
+		"sasedev/doctrine-dbal-pgsql-types" : "dev-master"
 	},
 	"config" : {
 		"bin-dir" : "bin",
@@ -33,5 +33,6 @@
 		"branch-alias" : {
 			"dev-master" : "1.0-dev"
 		}
-	}
+	},
+	"minumum-stablility" : "stable"
 }
