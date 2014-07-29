@@ -21,8 +21,8 @@
 	},
 	"require" : {
 		"php" : ">=5.3.3",
-		"symfony/framework-bundle" : "~2.3",
-		"doctrine/orm" : ">=2.2.3",
+		"symfony/symfony" : "~2.3",
+		"doctrine/orm" : "~2.2,>=2.2.3",
 		"sasedev/doctrine-dbal-pgsql-types" : "dev-master"
 	},
 	"config" : {
